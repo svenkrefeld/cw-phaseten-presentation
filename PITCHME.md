@@ -48,10 +48,43 @@ Absätze könnt ihr einfach durch Leerzeilen erzeugen
 
 ---
 
-Zum Schluss fehlen noch Notizen, 
-drückt einfach mal "S"
+Zum Schluss fehlen noch Notizen, drückt einfach mal "S"
 
 Bei Fragen schaut einfach mal im [Wiki](https://github.com/gitpitch/gitpitch/wiki) vorbei oder fragt mich
 
 Note:
 - Pssst! Ich bin eine geheime Notiz
+
+---
+
+## Vorstellung der Gruppe
+
+---
+
+## Spielidee
+
+---
+
+## Architektur
+
+---
+
+## GUI
+
+---
+
+## Spiellogik
+
+---
+
+## AI
+
+---
+
+## Datenhaltung
+
+---
+
+## Schluss
+
+---
