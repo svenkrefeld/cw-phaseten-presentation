@@ -35,3 +35,9 @@ Absätze könnt ihr einfach durch Leerzeilen erzeugen
 [Links](http://gph.to/2DJZeDS) könnt ihr ganz einfach so setzen
 ![Beispiel Bild1](assets/image/beispiel_bild1.jpg)
 - und Bilder fast genau so
+- ihr könnt sie auch als Hintergrund setzen wie auf der nächsten Folie
+
+---?image=assets/image/beispiel-bild2.jpg&size=auto 50%
+
+
+
