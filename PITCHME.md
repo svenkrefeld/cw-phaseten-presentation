@@ -43,11 +43,5 @@ Absätze könnt ihr einfach durch Leerzeilen erzeugen
 
 ---?code=src/GameValidationBean.java&lang=java&title=GameValidationBean
 
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
-
----
-
-
-
+@[1-3,5](Code könnt ihr auch ganz einfach einbinden)
+@[8-10](Und bestimmte Zeilen hervorheben)
