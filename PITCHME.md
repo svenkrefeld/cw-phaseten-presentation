@@ -32,6 +32,6 @@ Absätze könnt ihr einfach durch Leerzeilen erzeugen
 
 ---
 
-[Links] (http://gph.to/2DJZeDS) könnt ihr ganz einfach so setzen
-![Beispiel Bild1] (assets/image/beispiel_bild1.jpg)
+[Links](http://gph.to/2DJZeDS) könnt ihr ganz einfach so setzen
+![Logo] (assets/image/beispiel_bild1.jpg)
 - und Bilder fast genau so
