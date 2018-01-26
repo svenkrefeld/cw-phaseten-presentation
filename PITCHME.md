@@ -45,3 +45,11 @@ Absätze könnt ihr einfach durch Leerzeilen erzeugen
 
 @[1-3,5](Code könnt ihr auch ganz einfach einbinden)
 @[8-10](Und bestimmte Zeilen hervorheben)
+
+---
+
+- Zum Schluss fehlen noch Notizen, drückt einfach mal "S"
+- Bei Fragen schaut einfach mal im [Wiki](https://github.com/gitpitch/gitpitch/wiki) vorbei oder fragt mich
+
+Note:
+- Pssst! Ich bin eine geheime Notiz
