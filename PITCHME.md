@@ -58,6 +58,14 @@ Note:
 ---
 
 ## Vorstellung der Gruppe
+- Robin Harbecke
+- Daniela Kaiser
+- Sven Krefeld
+- Björm Merschmeier
+- Marc Mettke
+- Tim Prange
+- Dennis Schöneborn
+- Sebastian Seitz
 
 ---
 
