@@ -37,7 +37,7 @@ Absätze könnt ihr einfach durch Leerzeilen erzeugen
 - und Bilder fast genau so
 - ihr könnt sie auch als Hintergrund setzen wie auf der nächsten Folie
 
----?image=assets/image/beispiel-bild2.jpg&size=auto 50%
+---?image=assets/image/beispiel_bild2.jpg&size=auto 50%
 
 
 
