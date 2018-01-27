@@ -61,7 +61,7 @@ Note:
 - Robin Harbecke
 - Daniela Kaiser
 - Sven Krefeld
-- Björm Merschmeier
+- Björn Merschmeier
 - Marc Mettke
 - Tim Prange
 - Dennis Schöneborn
@@ -93,6 +93,13 @@ Note:
 - Am Ende werden die gesetzten Coins umverteilt
   - Wenigste Punkte = Meiste Coins
   - Meiste Punkte = Wenigste Coins
+  
+---
+
+## Spielidee - Erweiterung
+
+- Künstliche Intelligenz (AI)
+- genauere Informationen hierzu später
 
 ---
 
