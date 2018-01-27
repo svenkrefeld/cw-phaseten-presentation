@@ -6,6 +6,4 @@
 #
 
 theme-override : assets/css/PITCHME.css
-highlight : monokai
-transition : none
 footnote : "Componentware - Phaseten - Presentation"
