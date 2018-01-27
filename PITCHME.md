@@ -130,10 +130,14 @@ Note:
 ---
 
 ### Kartenbewertungsfuntion
+
 - Bewertet ein übergebenes Deck anhand von Spielfelds und Phase
 - Je nach Sittuation wir eine andere genommen
+
+---
   
-Bewertungsfunktionen
+### Bewertungsfunktionen
+
 - Phase noch nicht gelegt
   + Berechne fehlende Karten
   + 100 Minuspunkte pro fehlender Karte
