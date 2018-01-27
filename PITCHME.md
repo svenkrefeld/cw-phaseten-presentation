@@ -88,9 +88,6 @@ Note:
 ---
 
 ## AI
-
----
-
 ### Allgemeine Logik
 
 - Funktion zur Deckbewertung
