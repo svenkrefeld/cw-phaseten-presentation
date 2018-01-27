@@ -71,6 +71,29 @@ Note:
 
 ## Spielidee
 
+- Klassisches Phase 10
+- Es gibt 10 Phasen mit verschiedenen Aufgaben
+- Am Ende jeder Runde: Punkte zählen
+- Ziel: So wenig Punkte wie möglich
+
+Note:
+- Phase 10 ist ein Spiel von Mattel (ähnlich Rommé)
+- Phase 1 Aufgabe: 2 Drillinge (erst wenn ausgelegt ist, Karten anlegen)
+- Punkte zählen wenn eine Person keine Karten mehr hat
+- Spiel Endet wenn jemand Phase 10 erreicht
+
+---
+
+## Spielidee - Erweiterung
+
+- Erweiterung um Coins
+- Registrierung: 500 Coins
+- Kosten: 50 Coins pro Spiel
+- Jede Minute, die gespielt wird, wird belohnt
+- Am Ende werden die gesetzten Coins umverteilt
+  - Wenigste Punkte = Meiste Coins
+  - Meiste Punkte = Wenigste Coins
+
 ---
 
 ## Architektur
@@ -88,6 +111,9 @@ Note:
 ---
 
 ## AI
+
+---
+
 ### Allgemeine Logik
 
 - Funktion zur Deckbewertung
