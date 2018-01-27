@@ -88,8 +88,37 @@ Note:
 ---
 
 ## AI
+### Allgemiene Logik
+- Funktion zur Deckbewertung
+- Eigentliche Spielmethoden
 
----
+Spielmethoden
+- Ziehe Karte
+  + Berechne Deckwert mit vorgegebener Karte
+  + Deckwerte mit allen Zufallskarten
+  + Mittelwert der Zufallsergebnisse
+  + Vergleichen und wählen
+- Lege Phase
+  + Bewerte Karten für die Ablage als Phase
+  + Gefundene Möglichkeit ablegen
+- Lege Karten zu Stapel
+  + Lege alle Karten auf mögliche Stapel
+- Karte auf Ablegestapel legen
+  + Für jede Karte
+  + Bewerte Deck ohne diese Karte
+  + Lege die Karte ab mit dem nächsten Deckwert ohne sie
+
+### Kartenbewertungsfuntion
+- Bewertet ein übergebenes Deck anhand von Spielfelds und Phase
+- Je nach Sittuation wir eine andere genommen
+  
+Bewertungsfunktionen
+- Phase noch nicht gelegt
+  + Berechne fehlende Karten
+  + 100 Minuspunkte pro fehlender Karte
+- Phase schon gelegt
+  + Ignoriere alle ablegbaren Karten
+  + Minuspunkte jeder Karte entsprechen Kartenwert
 
 ## Datenhaltung
 
