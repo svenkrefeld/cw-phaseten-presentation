@@ -91,6 +91,9 @@ Note:
 ---
 
 ## AI
+
+---
+
 ### Allgemeine Logik
 
 - Funktion zur Deckbewertung
@@ -99,16 +102,26 @@ Note:
 ---
 
 ### Spielmethoden
+
 - Ziehe Karte
   + Berechne Deckwert mit vorgegebener Karte
   + Deckwerte mit allen Zufallskarten
   + Mittelwert der Zufallsergebnisse
   + Vergleichen und wählen
+
+---
+
+### Spielmethoden
 - Lege Phase
   + Bewerte Karten für die Ablage als Phase
   + Gefundene Möglichkeit ablegen
 - Lege Karten zu Stapel
   + Lege alle Karten auf mögliche Stapel
+
+---
+
+### Spielmethoden
+
 - Karte auf Ablegestapel legen
   + Für jede Karte
   + Bewerte Deck ohne diese Karte
