@@ -74,8 +74,11 @@ Note:
 ---
 
 ## Architektur
+
+---
+
 ## Client/Server Kommunikation
-![Beispiel Bild1](https://camo.githubusercontent.com/d3a0c54eb518f2f20237c99fa942215c1467c845/68747470733a2f2f692e696d6775722e636f6d2f6e504f73324d542e6a7067)
+![Client/Server Kommunikation](https://camo.githubusercontent.com/d3a0c54eb518f2f20237c99fa942215c1467c845/68747470733a2f2f692e696d6775722e636f6d2f6e504f73324d542e6a7067)
 
 ---
 
@@ -88,11 +91,14 @@ Note:
 ---
 
 ## AI
-### Allgemiene Logik
+### Allgemeine Logik
+
 - Funktion zur Deckbewertung
 - Eigentliche Spielmethoden
 
-Spielmethoden
+---
+
+### Spielmethoden
 - Ziehe Karte
   + Berechne Deckwert mit vorgegebener Karte
   + Deckwerte mit allen Zufallskarten
@@ -107,6 +113,8 @@ Spielmethoden
   + Für jede Karte
   + Bewerte Deck ohne diese Karte
   + Lege die Karte ab mit dem nächsten Deckwert ohne sie
+  
+---
 
 ### Kartenbewertungsfuntion
 - Bewertet ein übergebenes Deck anhand von Spielfelds und Phase
@@ -119,6 +127,8 @@ Bewertungsfunktionen
 - Phase schon gelegt
   + Ignoriere alle ablegbaren Karten
   + Minuspunkte jeder Karte entsprechen Kartenwert
+  
+---
 
 ## Datenhaltung
 
