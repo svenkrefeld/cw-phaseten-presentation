@@ -77,8 +77,6 @@ Note:
 
 ---?image=https://camo.githubusercontent.com/d3a0c54eb518f2f20237c99fa942215c1467c845/68747470733a2f2f692e696d6775722e636f6d2f6e504f73324d542e6a7067&size=auto 90%
 
-### Client/Server Kommunikation
-
 ---
 
 ## GUI
