@@ -120,6 +120,41 @@ Note:
 
 ## Spiellogik
 
+- Regeln analysiert
+- Angefangen mit Aktivitätsdiagrammen
+- Grundlegende Aktionen vergessen
+- Validierungs-Methode für jede Spieleraktion geschrieben
+
+Note:
+- Begonnen, das Spiel mit allen einmal zu spielen, damit Grundverständnis besteht
+- Regeln durchgelesen
+- Festgestellt, dass jeder das Spiel ein wenig anders spielt
+- Aktivitätsdiagramm für Spielablauf & Spielerzug erstellt
+- Es folgt: Aktivitätsdiagramm
+
+---
+
+## Aktivitätsdiagramm für Spieler-Aktionen
+---?image=https://raw.githubusercontent.com/svenkrefeld/cw-phaseten-presentation/master/assets/image/PhaseTen_doMove.png
+
+---
+
+## Spiellogik - verschiedene Piles
+
+- Es gibt DockPiles
+- Es existieren Unterklassen
+- Jede Unterklasse implementiert die "canAddCardLast" und "canAddCardFirst" als Validierungsmethoden
+- Die Oberklasse prüft beim hinzufügen die jeweilige Validierungsmethode der Implementierung
+- So entstehen nur gültige Stapel
+- Tests für die enstehenden Stapel (> 20 Stück)
+
+Note:
+- Wie im Klassendiagramm gesehen, gehört eine Karte immer zu irgendeinem Pile
+- Pile gliedert sich in "PlayerPile", "LifoStack", "PullStack", "DockPile"
+- Verschiedene Dockpiles: "ColorDockPile", "SequenceDockPile" und "SetDockPile"
+- Tests für jeden Stapel verschieden mit vielen Sonderfällen
+- "Nur Joker" für ein Pile ist recht interessant, da keine Regel dafür existiert
+
 ---
 
 ## AI
