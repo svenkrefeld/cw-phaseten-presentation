@@ -181,6 +181,22 @@ Note:
 
 ## Datenhaltung
 
+- Verwendung einer MySQL-Datenbank
+- Anbindung über JPA
+  + Implementierung EclipseLink
+- Abbildung über Entities 
+  + DDL über Annotationen
+  + Anlegen/Löschen der Tabellen bei Start/Stopp des Servers
+  + Verwendung von NamedQueries
+  + Uni-/Bidirektionale Beziehungen über JoinColumns
+- Entities beinhalten möglichst keine Logik 
+  + Verwendung eines EntityListeners
+
+Note:
+- lokale DB bei jedem lokal installiert, äquivalent eingerichtet
+- Id jeweils generiert, Vererbung zB. über MappedSuperclass () beim Pile...
+- EntityListener: initial 500 Coins, Logging, erweiterbar um weitere Funktionen
+- Bei Beziehungen: FetchType und Cascade situationsabhängig gewählt
 ---
 
 ## Schluss
