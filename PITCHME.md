@@ -135,7 +135,7 @@ Note:
 ---
 
 ## Aktivitätsdiagramm für Spieler-Aktionen
----?image=https://raw.githubusercontent.com/svenkrefeld/cw-phaseten-presentation/master/assets/image/PhaseTen_doMove.png
+?image=https://raw.githubusercontent.com/svenkrefeld/cw-phaseten-presentation/master/assets/image/PhaseTen_doMove.png&size=auto 80%
 
 ---
 
