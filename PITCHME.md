@@ -105,11 +105,11 @@ Note:
 
 ## GUI
 
----?image=assets/image/login.png&size=70% auto
+---?image=assets/image/login.png&size=auto 75%
 
----?image=assets/image/lobby.png&size=80% auto
+---?image=assets/image/lobby.png&size=auto 75%
 
----?image=assets/image/playground.png&size=90% auto
+---?image=assets/image/playground.png&size=auto 75%
 
 ---
 
