@@ -137,7 +137,7 @@ Note:
   + Lege alle Karten auf mögliche Stapel
 - Karte auf Ablegestapel legen
   + Bewerte Deck ohne Karte x
-  + Lege die Karte x mit höchstem Deckwert ab  
+  + Lege die Karte x mit höchstem verbleibendem Deckwert ab  
 ---
 
 ### Kartenbewertungsfuntion
