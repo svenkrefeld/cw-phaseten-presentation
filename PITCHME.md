@@ -141,16 +141,9 @@ Note:
   + Gefundene Möglichkeit ablegen
 - Lege Karten zu Stapel
   + Lege alle Karten auf mögliche Stapel
-
----
-
-### Spielmethoden
-
 - Karte auf Ablegestapel legen
-  + Für jede Karte
-  + Bewerte Deck ohne diese Karte
-  + Lege die Karte ab mit dem nächsten Deckwert ohne sie
-  
+  + Bewerte Deck ohne Karte x
+  + Lege die Karte x mit höchstem Deckwert ab  
 ---
 
 ### Kartenbewertungsfuntion
