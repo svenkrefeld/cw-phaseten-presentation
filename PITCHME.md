@@ -121,22 +121,13 @@ Note:
 
 ### Spielmethoden
 
-- Ziehe Karte
-  + Berechne Deckwert mit vorgegebener Karte
-  + Deckwerte mit allen Zufallskarten
-  + Mittelwert der Zufallsergebnisse
-  + Vergleichen und wählen
-
----
-
-### Spielmethoden
-- Lege Phase
-  + Bewerte Karten für die Ablage als Phase
-  + Gefundene Möglichkeit ablegen
+- Ziehe Karte  
+  + Vergleicht Wert von Ablage- und Ziehstapel
+- Lege Phase  
+  + Legt mögliche Phase ab
 - Lege Karten zu Stapel
   + Lege alle Karten auf mögliche Stapel
-- Karte auf Ablegestapel legen
-  + Bewerte Deck ohne Karte x
+- Karte auf Ablegestapel legen  
   + Lege die Karte x mit höchstem verbleibendem Deckwert ab  
 ---
 
