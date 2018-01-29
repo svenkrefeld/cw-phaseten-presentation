@@ -93,7 +93,9 @@ Note:
   + GameValidationBean
   + LobbyManagementBean
   + UserManagementBean
-  
+
+---
+
 ## Verwendete EJBs
 
 - Stateful:
