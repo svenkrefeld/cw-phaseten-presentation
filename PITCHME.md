@@ -93,16 +93,23 @@ Note:
   + GameValidationBean
   + LobbyManagementBean
   + UserManagementBean
- - Stateful:
+  
+## Verwendete EJBs
+
+- Stateful:
   + UserSessionBean
 - Message Driven:
   + GameMessageBean
 
-
-
 ---
 
 ## GUI
+
+---?image=assets/image/login.png?size=100% auto
+
+---?image=assets/image/lobby.png?size=100% auto
+
+---?image=assets/image/playground.png?size=100% auto
 
 ---
 
