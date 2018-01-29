@@ -107,7 +107,7 @@ Note:
 
 ## GUI
 
----?image=assets/image/login.png&size=auto 65%
+---?image=assets/image/login.png&size=auto 55%
 
 ---?image=assets/image/lobby.png&size=auto 75%
 
