@@ -115,14 +115,8 @@ Note:
 ---
 
 ## AI
-
----
-
-### Allgemeine Logik
-
 - Funktion zur Deckbewertung
 - Eigentliche Spielmethoden
-
 ---
 
 ### Spielmethoden
