@@ -210,6 +210,5 @@ Note:
 ---
 
 ## Schluss
-Vielen Dank für Ihre Aufmerksamkeit.
 
-Fragen?
+Vielen Dank für Ihre Aufmerksamkeit.
