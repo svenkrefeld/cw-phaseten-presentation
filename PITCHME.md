@@ -19,6 +19,14 @@ Robin Harbecke, Daniela Kaiser, Sven Krefeld, Björn Merschmeier, Marc Mettke, T
 ---
 
 ## Vorstellung der Gruppe
+
+<table>
+  <tr>
+    <td>Robin Harbecke</td>
+    <td>Daniela Kaiser</td>
+  </tr>
+</table>
+
 - Robin Harbecke
 - Daniela Kaiser
 - Sven Krefeld
