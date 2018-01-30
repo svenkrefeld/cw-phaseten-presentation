@@ -139,7 +139,7 @@ Note:
 - Aktivitätsdiagramm für Spielablauf & Spielerzug erstellt
 - Es folgt: Aktivitätsdiagramm
 
----?image=https://raw.githubusercontent.com/svenkrefeld/cw-phaseten-presentation/master/assets/image/PhaseTen_doMove.png&size=90% auto
+---?image=https://raw.githubusercontent.com/svenkrefeld/cw-phaseten-presentation/master/assets/image/PhaseTen_doMove.png&size=95% auto
 
 ---
 
