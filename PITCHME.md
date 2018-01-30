@@ -25,16 +25,19 @@ Robin Harbecke, Daniela Kaiser, Sven Krefeld, Björn Merschmeier, Marc Mettke, T
     <td>Robin Harbecke</td>
     <td>Daniela Kaiser</td>
   </tr>
+  <tr>
+    <td>Sven Krefeld</td>
+    <td>Björn Merschmeier</td>
+  </tr>
+  <tr>
+    <td>Marc Mettke</td>
+    <td>Tim Prange</td>
+  </tr>
+  <tr>
+    <td>Dennis Schöneborn</td>
+    <td>Sebastian Seitz</td>
+  </tr>
 </table>
-
-- Robin Harbecke
-- Daniela Kaiser
-- Sven Krefeld
-- Björn Merschmeier
-- Marc Mettke
-- Tim Prange
-- Dennis Schöneborn
-- Sebastian Seitz
 
 ---
 
