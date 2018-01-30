@@ -164,7 +164,8 @@ Note:
 
 ### Spielmethoden
 
-- Ziehe Karte  
+- Ziehe Karte
+  + Vergleicht Wert von Ablage- und Ziehstapel
 - Lege Phase  
 - Lege Karten zu Stapel
 - Karte auf Ablegestapel legen  
