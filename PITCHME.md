@@ -165,13 +165,21 @@ Note:
 ### Spielmethoden
 
 - Ziehe Karte  
+- Lege Phase  
+- Lege Karten zu Stapel
+- Karte auf Ablegestapel legen  
+  
+Note:
+
+- Ziehe Karte  
   + Vergleicht Wert von Ablage- und Ziehstapel
 - Lege Phase  
   + Legt mögliche Phase ab
 - Lege Karten zu Stapel
   + Lege alle Karten auf mögliche Stapel
 - Karte auf Ablegestapel legen  
-  + Lege die Karte x mit höchstem verbleibendem Deckwert ab  
+  + Lege die Karte x mit höchstem verbleibendem Deckwert ab
+
 ---
 
 ### Kartenbewertungsfuntion
