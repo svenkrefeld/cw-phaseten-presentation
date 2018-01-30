@@ -187,7 +187,6 @@ Note:
   + Implementierung EclipseLink
 - Abbildung über Entities 
   + DDL über Annotationen
-  + Anlegen/Löschen der Tabellen bei Start/Stopp des Servers
   + Verwendung von NamedQueries
   + Uni-/Bidirektionale Beziehungen über JoinColumns
 - Entities beinhalten möglichst keine Logik 
