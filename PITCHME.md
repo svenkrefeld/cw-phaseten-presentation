@@ -14,7 +14,6 @@ Robin Harbecke, Daniela Kaiser, Sven Krefeld, Björn Merschmeier, Marc Mettke, T
 - Spiellogik
 - AI
 - Datenhaltung
-- Schluss
 
 ---
 
