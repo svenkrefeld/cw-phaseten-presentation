@@ -117,6 +117,7 @@ Note:
 ---?image=assets/image/login.png&size=auto 55%
 
 Note:
+
 - Erste Fenster ist das Login
 - Nutzer kann sich entweder anmelden oder registrieren
 
@@ -124,8 +125,19 @@ Note:
 
 Note:
 
+- In der Lobby aktuelle Spielerliste zusehen
+- Welche Spieler, Zuschauer oder AI-Spieler dem Spiel beigetreten
+- User kann auch durch entsprechende Buttons dem Spiel beitreten
 
 ---?image=assets/image/playground.png&size=65% auto
+
+Note:
+
+- Obere Reihe: Drawpile, LiFo-Stack , Phasenkarte mit Regeln, Spielerliste
+- Bereich wo die Phasen ausgelegt werden
+- Bereich für den Spieler zum auslegen
+- Spielerkarten
+
 
 ---
 
