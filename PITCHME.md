@@ -118,7 +118,7 @@ Note:
 
 ---?image=assets/image/lobby.png&size=auto 75%
 
----?image=assets/image/playground.png&size=auto 85%
+---?image=assets/image/playground.png&size=75% auto
 
 ---
 
